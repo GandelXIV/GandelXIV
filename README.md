@@ -6,7 +6,7 @@ I am just a 16 year old guy interested in computer science.
 - Operating Systems
 - Networking
 - Reverse Engineering
-- Web
+- Web Applications
 - Rendering Engines
 - Computer Security
 - Game Development
