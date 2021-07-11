@@ -1,16 +1,19 @@
-### Hi there 👋
+# Welcome to my GitHub page!
 
-<!--
-**GandelXIV/GandelXIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am just a 16 year old guy interested in computer science.
 
-Here are some ideas to get you started:
+## Interests
+- Operating Systems
+- Networking
+- Reverse Engineering
+- Web
+- Rendering Engines
+- Computer Security
+- Game Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+- Python
+- C
+- NASM
+- Rust
+- Java / C#
