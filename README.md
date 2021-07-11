@@ -17,3 +17,5 @@ I am just a 16 year old guy interested in computer science.
 - NASM
 - Rust
 - Java / C#
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GandelXIV)](https://github.com/anuraghazra/github-readme-stats)
