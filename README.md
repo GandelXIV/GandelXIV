@@ -13,7 +13,7 @@ I am just a 16 year old guy interested in computer science.
 ## Languages
 - Python
 - C
-- NASM
+- ASM
 - Rust
 - GDscript
 - Java / C#
