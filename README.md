@@ -5,10 +5,9 @@ I am just a 16 year old guy interested in computer science.
 ## Interests
 - Operating Systems
 - Networking
-- Reverse Engineering
+- Binary Exploitation
 - Web Applications
-- Rendering Engines
-- Computer Security
+- Computer Graphics
 - Game Development
 
 ## Languages
@@ -16,6 +15,7 @@ I am just a 16 year old guy interested in computer science.
 - C
 - NASM
 - Rust
+- GDscript
 - Java / C#
 
 [![Gandel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GandelXIV&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
