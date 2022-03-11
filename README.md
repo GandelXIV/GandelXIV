@@ -15,6 +15,7 @@ I am just a 16 year old guy interested in computer science.
 - C
 - ASM
 - Rust
+- TypeScript
 - Bash
 - GDscript
 - Java / C#
