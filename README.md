@@ -12,9 +12,9 @@ I am just a 16 year old guy interested in computer science.
 
 ## Languages
 - Python
+- Rust
 - C
 - ASM
-- Rust
 - TypeScript
 - Bash
 - GDscript
