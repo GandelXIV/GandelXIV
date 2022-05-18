@@ -1,6 +1,6 @@
 # Welcome to my GitHub page!
 
-I am just a 16 year old guy interested in computer science.
+I am just a 17 year old guy interested in computer science.
 
 ## Interests
 - Operating Systems
