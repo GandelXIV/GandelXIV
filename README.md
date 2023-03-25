@@ -4,22 +4,21 @@ I am just a 17 year old guy interested in computer science.
 
 ## Interests
 - Programming Languages
+- Cyber Security
 - Operating Systems
-- Networking
-- Binary Exploitation
 - Web Applications
-- Computer Graphics
 - Game Development
+- Build Systems
 - Computer Architecture
 
 ## Languages
 - Python
 - Rust
+- TypeScript
 - C
+- GDscript
 - NASM
 - Make
-- TypeScript
+- Dhall
 - Bash
-- GDscript
 - Java / C#
-- Elm
