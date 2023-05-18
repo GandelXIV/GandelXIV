@@ -21,4 +21,5 @@ I am just an 18 year old guy interested in computer science.
 - Make
 - Dhall
 - Bash
+- PHP
 - Java / C#
