@@ -1,6 +1,6 @@
 # Welcome to my GitHub page!
 
-I am just an 18 year old guy interested in computer science.
+I like making and breaking stuff
 
 ## Interests
 - Programming Languages
